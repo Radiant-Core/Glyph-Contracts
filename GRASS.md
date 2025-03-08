@@ -13,7 +13,7 @@
 ## Tokenomics
 - Max Supply:  21000000
 - Premine:   0
-- Reward per mint:  10 
+- Reward per mint:  100
 - Contracts:   21
 - Difficulty: 2
 
